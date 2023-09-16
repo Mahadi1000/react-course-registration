@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Programming",
+    "description": "Learn the fundamentals of programming with this beginner-friendly course.",
+    "instructor": "John Smith",
+    "duration": "8 hours",
+    "price": "$49.99",
+    "image": "https://i.ibb.co/DKWftV0/Rectangle-2-4.png"
+  },
+  {
+    "id": 2,
+    "title": "Web Development Bootcamp",
+    "description": "Master web development skills in this intensive bootcamp.",
+    "instructor": "Emily Davis",
+    "duration": "6 hours",
+    "price": "$99.99",
+    "image": "https://i.ibb.co/mB4DZwv/Rectangle-2-1.png"
+  },
+  {
+    "id": 3,
+    "title": "Data Science Essentials",
+    "description": "Explore the world of data science and analytics.",
+    "instructor": "David Johnson",
+    "duration": "5 hours",
+    "price": "$79.99",
+    "image": "https://i.ibb.co/L0D92T1/Rectangle-2-3.png"
+  },
+  {
+    "id": 4,
+    "title": "Graphic Design Fundamentals",
+    "description": "Learn the basics of graphic design and creative visual communication.",
+    "instructor": "Sarah Lee",
+    "duration": "6 hours",
+    "price": "$59.99",
+    "image": "https://i.ibb.co/jvy4ctV/Rectangle-3.png"
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development",
+    "description": "Create mobile apps for iOS and Android platforms.",
+    "instructor": "Michael Brown",
+    "duration": "7 hours",
+    "price": "$129.99",
+    "image": "https://i.ibb.co/pKh9GXK/Rectangle-2.png"
+  },
+  {
+    "id": 6,
+    "title": "Machine Learning Masterclass",
+    "description": "Dive deep into machine learning and artificial intelligence.",
+    "instructor": "Alex Johnson",
+    "duration": "8 hours",
+    "price": "$149.99",
+    "image": "https://i.ibb.co/mB4DZwv/Rectangle-2-1.png"
+  },
+  {
+    "id": 7,
+    "title": "Digital Marketing Strategies",
+    "description": "Learn effective digital marketing techniques and strategies.",
+    "instructor": "Laura Wilson",
+    "duration": "6 hours",
+    "price": "$69.99",
+    "image": "https://i.ibb.co/31mq3nZ/Rectangle-2-5.png"
+  },
+  {
+    "id": 8,
+    "title": "Photography Basics",
+    "description": "Discover the art of photography and composition.",
+    "instructor": "Daniel Martinez",
+    "duration": "4 hours",
+    "price": "$49.99",
+    "image": "https://i.ibb.co/YpPfGfw/Rectangle-3-1.png"
+  },
+  {
+    "id": 9,
+    "title": "Business Management Essentials",
+    "description": "Gain key skills for successful business management.",
+    "instructor": "Jennifer Adams",
+    "duration": "8 hours",
+    "price": "$79.99",
+    "image": "https://i.ibb.co/mB4DZwv/Rectangle-2-1.png"
+  },
+  {
+    "id": 10,
+    "title": "Artificial Intelligence Ethics",
+    "description": "Explore the ethical considerations of AI and machine learning.",
+    "instructor": "Chris Turner",
+    "duration": "6 hours",
+    "price": "$69.99",
+    "image": "https://i.ibb.co/7410h5G/Rectangle-2-6.png"
+  },
+  {
+    "id": 11,
+    "title": "Video Production Workshop",
+    "description": "Learn the art of video production and editing.",
+    "instructor": "Olivia White",
+    "duration": "10 hours",
+    "price": "$89.99",
+    "image": "https://i.ibb.co/Dbq4Jqj/3055725.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Creative Writing Masterclass",
+    "description": "Unlock your creative writing potential with this masterclass.",
+    "instructor": "Robert Smith",
+    "duration": "8 hours",
+    "price": "$59.99",
+    "image": "https://i.ibb.co/GPrx333/2345127.jpg"
+  }
+]
